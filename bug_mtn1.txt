@@ -1,0 +1,4 @@
+This bug request research for its update.
+Engr. Tim should take a look at it to enhance the code 
+After the code has been enhenced, we can meet again. 
+We need to hire a spec writer to fine tune our write-ups
